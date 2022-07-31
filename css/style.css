@@ -18,10 +18,12 @@ body {
   align-items: center;
   justify-content: space-around;
   padding: 8px;
+  background-color: aqua;
 }
 
 .cabecalho-imagem {
   height: 50px;
+  
 }
 
 .cabecalho-menu {
@@ -33,7 +35,8 @@ body {
   font-family: 'Sarala', sans-serif;
   color: #080807;
   font-weight: 300;
-  font-size: 18px
+  font-size: 18px;
+  border-radius: 10%;
   
 }
 
